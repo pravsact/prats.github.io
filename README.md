@@ -19,7 +19,7 @@ Technical Lead with overall 8+ years of IT Experience and 3+ years of relevant e
 ## Certifications
 
 <p align='left'>
-  <img src="/Azure_Data_Engineer.png" alt="html" width="50" height="50">
+  <img src="/Azure_Data_Engineer.png" alt="html" width="150" height="150">
 </p>
 
 
