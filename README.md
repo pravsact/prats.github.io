@@ -7,7 +7,7 @@ Technical Lead with overall 8+ years of IT Experience and 3+ years of relevant e
 ## Skills
 
 <p align='left'>
-  <img src="/Azure_Logo.png" alt="html" width="100" height="40">
+  <img src="/Azure_Logo.png" alt="html" width="100" height="35">
   <img src="/databricks.png" alt="html" width="90" height="40">
   <img src="/python-logo.png" alt="html" width="110" height="40">
 
@@ -18,12 +18,12 @@ Technical Lead with overall 8+ years of IT Experience and 3+ years of relevant e
 ## Experience
 
 ### **TECHNICAL ARCHITECT - DATA ENGINEERING**
-## ACCENTURE
+#### ACCENTURE
 
 Design and develop ELT/ETL pipelines and Data analytics on audit logs of Microsoft CRM tools to Prevent Fraud escalations.
 
 ### **DATA ENGINEER | BIG DATA ANALYST**
-## TATA CONSULTANCY SERVICES
+#### TATA CONSULTANCY SERVICES
 
 Did Migration and Analysis of legacy pharmacy tables and generated extracts to give insights to Machine learning models.
 
@@ -31,11 +31,11 @@ Did Migration and Analysis of legacy pharmacy tables and generated extracts to g
 ## Education
 
 ### **Gautam Buddh technical University**
-## MCA (2009- 2012)
+#### MCA (2009- 2012)
 GPA 7.75
 
 ### **Dr. Bhim Rao Ambedkar University**
-## BCA (2006- 2009)
+#### BCA (2006- 2009)
 GPA 7.35
 
 ---
