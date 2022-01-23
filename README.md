@@ -1,6 +1,6 @@
 ## Portfolio
 
-Technical Lead with 8+ years of Experience in Azure data solution and Big Data technologies. Helping companies make the best use of their data, through a variety of business intelligence, data warehousing, and advanced data analytics solutions. Progressively worked in, and led, diverse teams across locations to help clients from Retail and Medicare industries better utilize the power of data ad-hoc data analyses techniques. Specialized in Design and Development of Data Ingestion , Data Validation and ETL Transformation of big data using latest Database technologies .
+Technical Lead with overall 8+ years of IT Experience and 3+ years of relevant experience in Azure data solution and Big Data technologies. Helping companies make the best use of their data, through a variety of business intelligence, data warehousing, and advanced data analytics solutions. Progressively worked in and led diverse teams across locations to help clients from Retail and Medicare domains to better utilize the power of data with data engineering and analyses techniques. Specialized in data engineering roles and responsibilities.
 
 ---
 
@@ -21,7 +21,7 @@ Technical Lead with 8+ years of Experience in Azure data solution and Big Data t
 ### **TECHNICAL ARCHITECT - DATA ENGINEERING**
 ### ACCENTURE
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Design and develop ELT/ETL pipelines and Data analytics on audit logs of Microsoft CRM tools to Prevent Fraud escalations.
 
 ### **DATA ENGINEER | BIG DATA ANALYST**
 ### TATA CONSULTANCY SERVICES
@@ -31,13 +31,16 @@ Did Migration and Analysis of legacy pharmacy tables and generated extracts to g
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **Gautam Buddh technical University**
+### MCA (2009- 2012)
+GPA 7.75
+
+### **Dr. Bhim Rao Ambedkar University**
+### BCA (2006- 2009)
+GPA 7.35
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
-
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I am a state level player of badminton. Loves to listen and sing music in every genre.
+I love travelling to different countries and explore different cultures. When i am inside , I play guitar and sing in my free time.
