@@ -3,9 +3,8 @@ logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Azure Data Engineer
   <br>"Transforming large, unruly data sets into competitive advantages."<br>
-  <a href="mailto:inbox.prats@gmail.com">inbox.prats@gmail.com </a>
+  <a href="mailto:pravs.x@gmail.com">Mail</a>
   <br>
   <a href="https://www.linkedin.com/in/pratyush-vashistha/">LinkedIn Profile</a>
   <br>
-  <a href="https://www.github.com/pravsact/">Github</a> 
 theme: jekyll-theme-minimal
