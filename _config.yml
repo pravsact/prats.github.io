@@ -1,1 +1,11 @@
+title: Pratyush Vashistha # your name (or website title) here
+#logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Data Engineer
+  <br><br>
+  <a href="mailto:inbox.prats@gmail.com">inbox.prats@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/pratyush-vashistha/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/pravsact/">Gihub</a> 
 theme: jekyll-theme-minimal
