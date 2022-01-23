@@ -41,5 +41,4 @@ GPA 7.35
 ---
 
 ### INTERESTS
-I am a state level player of badminton. Loves to listen and sing music in every genre.
-I love travelling to different countries and explore different cultures. When i am inside , I play guitar and sing in my free time.
+I am big fan of movies and music. Loves travelling a lot and play almost any outdoor sport. 
