@@ -10,8 +10,6 @@ Technical Lead with overall 8+ years of IT Experience and 3+ years of relevant e
   <img src="/Azure_Logo.png" alt="html" width="100" height="35">
   <img src="/databricks.png" alt="html" width="100" height="40">
   <img src="/python-logo.png" alt="html" width="110" height="35">
-  <img src="/python-logo.png" alt="html" width="110" height="35">
-
 </p>
 
 ---
